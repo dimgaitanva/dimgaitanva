@@ -13,6 +13,7 @@ I am looking for a data analyst position in a dynamic environment where I can co
 
 ✨ _Languages and Tools_ ✨
 
+Google Sheets | Power Query | SQL | Power BI | Python | Numpy | Pandas
 
 ✨ _Personal Interest_ ✨
 
