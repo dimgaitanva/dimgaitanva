@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**dimgaitanva/dimgaitanva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Diana Gaitan 😄
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Analyst from Colombia,  with a solid foundation in Bioinformatics, I specialize in transforming complex datasets into actionable insights that drive informed decision-making ⚡⚡.
+
+I’m eager to contribute my expertise to interdisciplinary teams and collaborate on projects that make a tangible impact 🌱 🔭.
+
+✨ _My Goal_ ✨
+
+I am looking for a data analyst position in a dynamic environment where I can continuously learn and develop my skills.
+
+✨ _Languages and Tools_ ✨
+
+
+✨ _Personal Interest_ ✨
+
+Outside of the tech world, I have a love for animals especially dogs, I love them!, enjoy immersing myself in the captivating novels of John Katzenbach, and documentaries about nature and science fiction ⚡.
+
+
+✨ _Contact me_ ✨
+
+www.linkedin.com/in/dmgv270492
+
+
