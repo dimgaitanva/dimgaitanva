@@ -1,7 +1,6 @@
-### Hi there 👋
+ <h1 align="center"> Hi there 👋 </h1>
 
-I'm Diana Gaitan 😄
-
+<h1 align="center"> I'm Diana Gaitan 😄 </h1>
 
 Data Analyst from Colombia,  with a solid foundation in Bioinformatics, I specialize in transforming complex datasets into actionable insights that drive informed decision-making ⚡⚡.
 
