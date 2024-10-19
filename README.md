@@ -22,13 +22,7 @@ I’m eager to contribute my expertise to interdisciplinary teams and collaborat
 I am looking for a data analyst position in a dynamic environment where I can continuously learn and develop my skills 📊💻.
 
 <hr>
-<p align="center">
- <div style="width: 200px; height: 200px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-  <img src="https://media.giphy.com/media/h8RDGogSns9wpOJFzR/giphy.gif" style="width: 100%; height: auto; object-fit: cover;" />
-</div>
 
-
-</p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***✨_My Tools_✨***
 <p align="left">
@@ -46,7 +40,12 @@ I am looking for a data analyst position in a dynamic environment where I can co
   <code> <img height="50" src="https://cdn.worldvectorlogo.com/logos/google-sheets-full-logo-1.svg"> </code>
   <hr>
 <br>
+<p align="center">
+ <img align="center" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="300" height="300" />
 
+
+</p>
+<br>
 ✨ _Personal Interest_ ✨
 
 Outside of the tech world, I have a love for animals especially dogs 🐶, I love them!🐩 🐾, enjoy immersing myself in the captivating novels of John Katzenbach 📘, and documentaries about nature 🌎 and  science fiction 🎥 📺.
