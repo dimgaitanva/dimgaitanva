@@ -1,6 +1,6 @@
  <h1 align="center"> Hi there 👋 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=I'm+Diana+Gaitán...;Data+Analist...;passionate+about+data+and+dogs..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=I'm+Diana+Gaitán...;Data+Analist...;Passionate+about+data+and+dogs..."/>
 
 Data Analyst from Colombia,  with a solid foundation in Bioinformatics, I specialize in transforming complex datasets into actionable insights that drive informed decision-making ⚡⚡.
 
