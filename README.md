@@ -41,6 +41,8 @@ Google Sheets | Power Query | SQL | Power BI | Python | Numpy | Pandas
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"> </code>
+  <code> <img height="50" src="https://media.licdn.com/dms/image/C4E12AQHha9QzunmbRQ/article-cover_image-shrink_600_2000/0/1618408469872?e=2147483647&v=beta&t=M8MZHsvzYushmv4EGMBI9zMlv6mwPWjGj6tY2tAKuj8"> </code>
+  <code> <img height="50" src="https://cdn.worldvectorlogo.com/logos/google-sheets-full-logo-1.svg"> </code>
   <hr>
 <br>
 
