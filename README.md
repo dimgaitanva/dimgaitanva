@@ -23,6 +23,13 @@ I’m eager to contribute my expertise to interdisciplinary teams and collaborat
 
 I am looking for a data analyst position in a dynamic environment where I can continuously learn and develop my skills 📊💻.
 
+<hr>
+<p align="center">
+ <img align="center" src="https://media.giphy.com/media/h8RDGogSns9wpOJFzR/giphy.gif" />
+
+</p>
+
+
 <br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
