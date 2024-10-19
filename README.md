@@ -39,6 +39,9 @@ Google Sheets | Power Query | SQL | Power BI | Python | Numpy | Pandas
 <td align="center" width="33%">
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
 </td>
+
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
 <br>
 
 ✨ _Personal Interest_ ✨
