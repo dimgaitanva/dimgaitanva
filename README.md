@@ -32,7 +32,13 @@ Google Sheets | Power Query | SQL | Power BI | Python | Numpy | Pandas
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg">
 </td>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
+</td>
 
+<td align="center" width="33%">
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
+</td>
 <br>
 
 ✨ _Personal Interest_ ✨
