@@ -1,4 +1,5 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=81E26A&size=28&center=true&lines=I'm+Diana+Gaitán...;Data+Analist...;I+love+data+and+dogs..."/>
 
