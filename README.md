@@ -7,6 +7,7 @@
 
 <hr> 
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***_About me_***
 
 Data Analyst from Colombia,  with a solid foundation in Bioinformatics, I specialize in transforming complex datasets into actionable insights that drive informed decision-making 📊 📈 📉.
 
@@ -46,12 +47,16 @@ I am looking for a data analyst position in a dynamic environment where I can co
 
 </p>
 <br>
-✨ _Personal Interest_ ✨ 
+
+<hr> 
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***_Personal Interests_***
 
 Outside of the tech world, I have a love for animals especially dogs 🐶, I love them!🐩 🐾, enjoy immersing myself in the captivating novels of John Katzenbach 📘, and documentaries about nature 🌎 and  science fiction 🎥 📺.
 
 <hr>
-✨ _Contact me_ ✨
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***_Contact Me_***
 
  <p align="left">
   <a href="https://www.linkedin.com/in/dmgv270492/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
