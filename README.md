@@ -38,7 +38,6 @@ Outside of the tech world, I have a love for animals especially dogs 🐶, I lov
   <a href="mailto:dimgaitanva@gmail.com" target="_blank">
   <img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  />
 </a>
-
   <a href="discordapp.com/users/dianagaitanv_16207" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   </p>
   </div>
