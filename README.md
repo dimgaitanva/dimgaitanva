@@ -5,15 +5,15 @@
 </div>
 
 <hr> 
-<p align="center">
-  <img align="center" src="https://media.giphy.com/media/DspGTIUjMs3FBQwkCE/giphy.gif" />
-</p>
+
 
 Data Analyst from Colombia,  with a solid foundation in Bioinformatics, I specialize in transforming complex datasets into actionable insights that drive informed decision-making ⚡⚡.
 
 I’m eager to contribute my expertise to interdisciplinary teams and collaborate on projects that make a tangible impact 🌱 🔭.
 <hr>
-
+<p align="center">
+  <img align="center" src="https://media.giphy.com/media/DspGTIUjMs3FBQwkCE/giphy.gif" />
+</p>
 
 ✨ _My Goal_ ✨
 
