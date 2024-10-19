@@ -12,6 +12,7 @@ Data Analyst from Colombia,  with a solid foundation in Bioinformatics, I specia
 I’m eager to contribute my expertise to interdisciplinary teams and collaborate on projects that make a tangible impact 🌱 🔭.
 <hr>
 <p align="center">
+  <div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/JkVnfE54QdOMQBxmHg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/DataCamp-data-analytics-datacamp-JkVnfE54QdOMQBxmHg">via GIPHY</a></p>
   <img align="center" src="https://giphy.com/gifs/DataCamp-data-analytics-datacamp-JkVnfE54QdOMQBxmHg" />
 </p>
 
