@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=49A25C&size=30&center=true&lines=I'm+Diana+Gaitán...;Data+Analist...;Passionate+about+data+and+dogs..." style="border: 8px solid black; display: block; margin: 0 auto; align="center"" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=49A25C&size=28&center=true&lines=I'm+Diana+Gaitán...;Data+Analist...;Passionate+about+data+and+dogs..."/>
 
 </div>
 
