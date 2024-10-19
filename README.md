@@ -14,7 +14,6 @@ I’m eager to contribute my expertise to interdisciplinary teams and collaborat
 <p align="center">
  <img align="center" src="https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif" />
 
-  <div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/JkVnfE54QdOMQBxmHg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/DataCamp-data-analytics-datacamp-JkVnfE54QdOMQBxmHg">via GIPHY</a></p>
 </p>
 
 ✨ _My Goal_ ✨
