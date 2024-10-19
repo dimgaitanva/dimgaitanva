@@ -29,6 +29,11 @@ Google Sheets | Power Query | SQL | Power BI | Python | Numpy | Pandas
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg">
+</td>
+
+<br>
 
 ✨ _Personal Interest_ ✨
 
