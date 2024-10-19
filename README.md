@@ -5,7 +5,9 @@
 </div>
 
 <hr> 
-
+<p align="center">
+  <img align="center" src="https://media.giphy.com/media/DspGTIUjMs3FBQwkCE/giphy.gif" />
+</p>
 
 Data Analyst from Colombia,  with a solid foundation in Bioinformatics, I specialize in transforming complex datasets into actionable insights that drive informed decision-making ⚡⚡.
 
