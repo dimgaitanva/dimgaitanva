@@ -34,13 +34,9 @@ Google Sheets | Power Query | SQL | Power BI | Python | Numpy | Pandas
   
   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
+  <code> <img height="50" src="https://miro.medium.com/v2/resize:fit:2000/1*gM_WIfx7MXOO7jzsPm-Y0Q.png"> </code>
+  <code> <img height="50" src="https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/632b60f8c1aa184a0e5766d9_202209-ms-sql-icon-3x.png"> </code>
   <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
