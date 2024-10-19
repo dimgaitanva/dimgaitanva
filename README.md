@@ -23,7 +23,10 @@ I am looking for a data analyst position in a dynamic environment where I can co
 
 <hr>
 <p align="center">
- <img align="center" src="https://media.giphy.com/media/h8RDGogSns9wpOJFzR/giphy.gif" />
+ <div style="width: 200px; height: 200px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+  <img src="https://media.giphy.com/media/h8RDGogSns9wpOJFzR/giphy.gif" style="width: 100%; height: auto; object-fit: cover;" />
+</div>
+
 
 </p>
 
