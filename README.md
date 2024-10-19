@@ -16,6 +16,8 @@ I’m eager to contribute my expertise to interdisciplinary teams and collaborat
 
 </p>
 
+<br>
+
 ✨ _My Goal_ ✨
 
 I am looking for a data analyst position in a dynamic environment where I can continuously learn and develop my skills.
