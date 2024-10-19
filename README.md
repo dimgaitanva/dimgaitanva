@@ -4,6 +4,7 @@
 </p>
 
 <br>
+<br>
 
 Data Analyst from Colombia,  with a solid foundation in Bioinformatics, I specialize in transforming complex datasets into actionable insights that drive informed decision-making ⚡⚡.
 
