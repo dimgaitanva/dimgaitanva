@@ -17,14 +17,14 @@ I’m eager to contribute my expertise to interdisciplinary teams and collaborat
 
 </p>
 
-✨***_My Goal_*** ✨
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***_My Goal_***
 
 I am looking for a data analyst position in a dynamic environment where I can continuously learn and develop my skills 📊💻.
 
 <hr>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***✨_My Tools_✨***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***_My Tools_***
 <p align="left">
   
   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
@@ -46,7 +46,7 @@ I am looking for a data analyst position in a dynamic environment where I can co
 
 </p>
 <br>
-✨ _Personal Interest_ ✨
+✨ _Personal Interest_ ✨ 
 
 Outside of the tech world, I have a love for animals especially dogs 🐶, I love them!🐩 🐾, enjoy immersing myself in the captivating novels of John Katzenbach 📘, and documentaries about nature 🌎 and  science fiction 🎥 📺.
 
