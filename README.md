@@ -10,7 +10,7 @@
 Data Analyst from Colombia,  with a solid foundation in Bioinformatics, I specialize in transforming complex datasets into actionable insights that drive informed decision-making ⚡⚡.
 
 I’m eager to contribute my expertise to interdisciplinary teams and collaborate on projects that make a tangible impact 🌱 🔭.
-<hr style="height: 4px; border: none; background-color: black;" />
+<hr>
 
 
 ✨ _My Goal_ ✨
@@ -25,7 +25,7 @@ Google Sheets | Power Query | SQL | Power BI | Python | Numpy | Pandas
 
 Outside of the tech world, I have a love for animals especially dogs, I love them!, enjoy immersing myself in the captivating novels of John Katzenbach, and documentaries about nature and science fiction ⚡.
 
-
+<hr>
 ✨ _Contact me_ ✨
 
 www.linkedin.com/in/dmgv270492
