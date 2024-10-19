@@ -10,6 +10,8 @@
 Data Analyst from Colombia,  with a solid foundation in Bioinformatics, I specialize in transforming complex datasets into actionable insights that drive informed decision-making ⚡⚡.
 
 I’m eager to contribute my expertise to interdisciplinary teams and collaborate on projects that make a tangible impact 🌱 🔭.
+<hr style="height: 1px; border: none; background-color: black;" />
+
 
 ✨ _My Goal_ ✨
 
