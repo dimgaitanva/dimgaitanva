@@ -17,8 +17,6 @@ I’m eager to contribute my expertise to interdisciplinary teams and collaborat
 
 </p>
 
-<br>
-
 ✨ _My Goal_ ✨
 
 I am looking for a data analyst position in a dynamic environment where I can continuously learn and develop my skills 📊💻.
@@ -28,9 +26,6 @@ I am looking for a data analyst position in a dynamic environment where I can co
  <img align="center" src="https://media.giphy.com/media/h8RDGogSns9wpOJFzR/giphy.gif" />
 
 </p>
-
-
-<br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
