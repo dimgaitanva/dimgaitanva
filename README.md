@@ -9,9 +9,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***_About me_***
 
-Data Analyst from Colombia,  with a solid foundation in Bioinformatics, I specialize in transforming complex datasets into actionable insights that drive informed decision-making 📊 📈 📉.
-
-I’m eager to contribute my expertise to interdisciplinary teams and collaborate on projects that make a tangible impact 💥⚡.
+As a professional with a strong background in data analysis and bioinformatics, I am excited to pursue a career in Business Intelligence and Data Analytics. I am deeply passionate about uncovering insights from data to support informed decision-making and am motivated to apply my expertise in computational tools and statistical analysis to real-world business challenges.
 <hr>
 <p align="center">
  <img align="center" src="https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif" />
